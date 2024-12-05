@@ -1,0 +1,24 @@
+{
+  "name": "Michael Whitaker",
+  "organization": "Michael Whitaker",
+  "description": "Linked line charts with brushing and modern CSS",
+  "logoUrl": "https://storage.googleapis.com/analytics_buddy_viz/looker-hackathon/hackathon_logo.png",
+  "organizationUrl": "https://www.analyticsbuddy.com/",
+  "supportUrl": "https://www.analyticsbuddy.com/",
+  "privacyPolicyUrl": "https://www.analyticsbuddy.com/privacy-policy/",
+  "termsOfServiceUrl": "https://www.analyticsbuddy.com/terms-and-conditions/",
+  "packageUrl": "https://www.analyticsbuddy.com/animated-bar-charts-in-data-studio/",
+  "devMode": true,
+  "components": [
+    {
+      "name": "looker-hackathon",
+      "description": "Linked line charts with brushing and modern CSS",
+      "iconUrl": "https://storage.googleapis.com/analytics_buddy_viz/looker-hackathon/hackathon_logo.png",
+      "resource": {
+        "js": "gs://analytics_buddy_viz/looker-hackathon/index.js",
+        "config": "gs://analytics_buddy_viz/looker-hackathon/index.json",
+        "css": "gs://analytics_buddy_viz/looker-hackathon/index.css"
+      }
+    }
+  ]
+}
