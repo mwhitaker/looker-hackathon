@@ -2,6 +2,13 @@
 
 A Looker Studio community visualization component featuring linked line charts with brushing capabilities and modern CSS styling. The visualization shows data with interactive time period selection and comparison metrics. Heavily inspired by examples from ObservableHQ.
 
+If you want add this community viz to your own report, the manifest path is `gs://analytics_buddy_viz/looker-hackathon`
+
+A working demo: https://lookerstudio.google.com/reporting/9059e663-ccf5-4e5d-bc92-5d92cd71ebee
+
+Sample data source: https://docs.google.com/spreadsheets/d/1ucsQfAatVxhTnH1Rzp8y3mHadZRH77CiG0_hy1FX0xg/edit?usp=sharing
+
+
 ## Features
 
 - Interactive linked line charts
