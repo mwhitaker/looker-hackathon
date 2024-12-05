@@ -7,7 +7,7 @@
   "supportUrl": "https://www.analyticsbuddy.com/",
   "privacyPolicyUrl": "https://www.analyticsbuddy.com/privacy-policy/",
   "termsOfServiceUrl": "https://www.analyticsbuddy.com/terms-and-conditions/",
-  "packageUrl": "https://www.analyticsbuddy.com/animated-bar-charts-in-data-studio/",
+  "packageUrl": "https://github.com/mwhitaker/looker-hackathon/",
   "devMode": true,
   "components": [
     {

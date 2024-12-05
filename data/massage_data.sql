@@ -1,4 +1,5 @@
 -- download csv files from https://fred.stlouisfed.org/series/DGS5
+-- using DuckDB to combine the csv files
 
 -- 15yr and 30yr mortgages
 COPY (
